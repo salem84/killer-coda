@@ -1,0 +1,18 @@
+{
+    "title": "Exercise 1 - Pod",
+    "description": "Practice the creation of a new Pod in a namespace",
+    "details": {
+        "intro": {
+            "text": "init/init.md"            
+        },
+        "steps": [
+            
+        ],
+        "finish": {
+            "text": "finish/finish.md"
+        }
+    },
+    "backend": {
+        "imageid": "kubernetes-kubeadm-2nodes"
+    }
+}
