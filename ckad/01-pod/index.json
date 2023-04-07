@@ -3,7 +3,7 @@
     "description": "Practice the creation of a new Pod in a namespace",
     "details": {
         "intro": {
-            "text": "init/init.md"            
+            "text": "intro/intro.md"            
         },
         "steps": [
             
